@@ -1,0 +1,8 @@
+{
+  "mode": "searchPosts",
+  "queries": [
+    "web scraping"
+  ],
+  "maxItems": 20,
+  "outputFormat": "both"
+}
